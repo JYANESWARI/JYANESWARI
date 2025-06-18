@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyaneswari Devi Gajula</h1>
 <h3 align="center">Active Learner | Aspiring Java Full-Stack Developer</h3>
 
-<img align="right" alt="Girl Coding" width="300" style="margin-top: 80px;" src="https://raw.githubusercontent.com/JYANESWARI/JYANESWARI/main/coder-girl.png">
+<img align="right" alt="Girl Coding" width="300" src="https://raw.githubusercontent.com/JYANESWARI/JYANESWARI/main/coder-girl.png">
 
 
 ---
