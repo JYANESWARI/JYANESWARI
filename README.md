@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyaneswari Devi Gajula</h1>
 <h3 align="center">Active Learner | Aspiring Java Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ### 👩‍💻 About Me
 - 🔭 I’m currently working on **Java Web Applications using Servlets & JSP**
 - 🌱 I’m currently learning **Spring Boot, REST APIs**
@@ -25,11 +23,6 @@
 ![JSP](https://img.shields.io/badge/JSP-blue.svg?style=flat)  
 ![Servlets](https://img.shields.io/badge/Servlets-gray.svg?style=flat)  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-![Jyaneswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
 
 ---
 
